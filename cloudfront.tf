@@ -1,0 +1,1 @@
+# cloud front to cache the movies content
